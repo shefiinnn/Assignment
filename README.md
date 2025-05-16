@@ -12,3 +12,6 @@ Please note that you do not need to take care of actual message delivery logic. 
 Note: In case you have not worked with Python and associated frameworks before, you are free to code in a language and framework of your choice, be it JS, Java, Go , etc.
 
 Upon completion, please share the github repo link.
+
+https://github.com/shefiinnn/symplique_api
+
